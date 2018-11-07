@@ -30,6 +30,9 @@
     <ClCompile Include="Aircraft.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="SceneNode.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Game.h">
@@ -42,6 +45,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="Aircraft.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneNode.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

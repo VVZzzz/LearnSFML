@@ -122,12 +122,14 @@
     <ClCompile Include="Entity.cpp" />
     <ClCompile Include="Game.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="SceneNode.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Aircraft.hpp" />
     <ClInclude Include="Entity.hpp" />
     <ClInclude Include="Game.h" />
     <ClInclude Include="ResourceHolder.hpp" />
+    <ClInclude Include="SceneNode.hpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ResourceHolder.inl" />
